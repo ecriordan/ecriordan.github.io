@@ -29,7 +29,7 @@ reddit:
 
 email:
   name: "Email me"
-  urlTemplate: "mailto:{value}"
+  urlTemplate: "mailto:{ecriordan@arizona.edu}"
   icon: "fas fa-envelope"
 
 linkedin:
