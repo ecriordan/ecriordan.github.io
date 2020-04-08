@@ -17,6 +17,11 @@ github:
   urlTemplate: "https://github.com/ecriordan"
   icon: "fab fa-github"
 
+googleScholar:
+  name: "Google Scholar"
+  urlTemplate: "https://scholar.google.com/citations?user=cV7f6CAAAAAJ&hl=en"
+  icon: "fas fa-graduation-cap"
+  
 twitter:
   name: "Twitter"
   urlTemplate: "https://twitter.com/{value}"
