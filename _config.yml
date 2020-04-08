@@ -72,11 +72,12 @@ author:
 social-network-links:
   rss: true
   email: "ecriordan@arizona.edu"
-  facebook: deanattali
-  github: ecriordan
-#  twitter: 
-#  reddit: yourname
+  googleScholar:
   linkedin: erin-riordan-8b2040147
+  github: ecriordan
+  facebook: deanattali
+#  twitter: 
+#  reddit: yourname  
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
