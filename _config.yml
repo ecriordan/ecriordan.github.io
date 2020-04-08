@@ -69,12 +69,12 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "ecriordan@arizona.edu"
   googleScholar:
   linkedin: erin-riordan-8b2040147
   github: ecriordan
-  facebook: deanattali
+  facebook: 
 #  twitter: 
 #  reddit: yourname  
 #  xing: yourname
