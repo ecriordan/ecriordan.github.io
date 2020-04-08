@@ -9,7 +9,7 @@
 
 facebook:
   name: "Facebook"
-  urlTemplate: "https://www.facebook.com/{value}"
+  urlTemplate: "https://www.facebook.com/profile.php?id=2544604"
   icon: "fab fa-facebook"
 
 github:
