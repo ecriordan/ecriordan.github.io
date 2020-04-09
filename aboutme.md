@@ -9,12 +9,12 @@ I am an applied ecologist working at the intersection of plants, people, and cli
 <style>
 .column-left{
   float: left;
-  width: 33%;
+  width: 50%;
   text-align: left;
 }
 .column-right{
   float: right;
-  width: 33%;
+  width: 50%;
   text-align: right;
 }
 </style>
