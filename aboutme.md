@@ -10,7 +10,7 @@ I am an applied ecologist working at the intersection of plants, people, and cli
 - Ecology
 - Conservation
 - Restoration
-- Resource Management
+- Natural Resource Management
 - Food Security
 
 ### Skills
