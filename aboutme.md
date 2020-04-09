@@ -9,9 +9,9 @@ I am an applied ecologist working at the intersection of plants, people, and cli
 ### Interests
 - Ecology
 - Conservation
-- Crop wild relatives
-
-
+- Restoration
+- Resource Management
+- Food Security
 
 ### Skills
 - Spatial analysis
