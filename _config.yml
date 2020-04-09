@@ -24,7 +24,7 @@ navbar-links:
   Research:
     - Current Projects: "currentProjects"
     - Past Projects: "pastProjects"
-  Publications:
+  Publications: "publications"
   CV:
   Gallery:
   Home: "https://ecriordan.github.io/"
