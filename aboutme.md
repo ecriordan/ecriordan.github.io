@@ -7,40 +7,26 @@ subtitle: Climate adaptation for ecological and human well-being
 I am an applied ecologist working at the intersection of plants, people, and climate. I use quantitative tools, including statistical models and spatial analyses, to understand how plants respond to climate with the goal of promoting ecological and human health and resilience. My work embraces transdisciplinary approaches to climate adaptation in complex socio-ecological systems, including restoration of ecological and cultural landscapes, arid food systems, natural resource management, and biodiversity conservation. I am currently a postdoctoral research associate at the University of Arizona’s [Laboratory of Tree Ring Research](https://ltrr.arizona.edu/) and research associate at the [Desert Laboratory on Tumamoc Hill](http://tumamoc.arizona.edu/).
 
 #### Interests
-<div class="row">
-    <div class="col-md-6">
-        - Ecology
-        - Conservation
-        - Restoration
+<div class="grid">
+    <div class="col-1-2">
+       <div class="content">
+           <p>- conservation
+           - ecology</p>
+       </div>
     </div>
-    <div class="col-md-6">
-       - Food Security
-       - Crop Wild Relatives
-       - Natural Resource Management
+    <div class="col-1-2">
+       <div class="content">
+           <p>- food security
+           - crop wild relatives</p>
+       </div>
     </div>
 </div>
 
-#### Interests
-<div class="column-left">
-- Ecology
-- Conservation
-- Restoration
-</div>
-<div class="column-right">
-- Food Security
-- Crop Wild Relatives
-- Natural Resource Management
-</div>
 
 ### Interests
-Column 1
---------------------------------------------------
 - Ecology
 - Conservation
 - Restoration
-
-Column 2
---------------------------------------------------
 - Food Security
 - Crop Wild Relatives
 - Natural Resource Management
