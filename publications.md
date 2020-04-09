@@ -5,6 +5,8 @@ title: Publications
 
 ### [Google Scholar](https://scholar.google.com/citations?user=cV7f6CAAAAAJ&hl=en)
 
+### [Restoration Decision Support Tools](https://www.rcrcd.org/plant-profiles)
+
 ### Technical Reports
 
 **Riordan EC** and PW Rundel. **2019**. Evaluating the future role of the University of California Natural Reserve System for sensitive plant protection under climate change. Report prepared for the University of California Natural Reserve System. 62 p. [report](https://escholarship.org/uc/item/3jn1q3d8)
@@ -45,5 +47,3 @@ Graham EA, **EC Riordan**, EM Yuen, D Estrin, and PW Rundel. **2010**. Public In
 **Riordan EC** and PW Rundel. **2013**. The future of California sage scrub in an era of increasing urbanization and global climate change. Fremontia 41:2–7. [article](https://cnps.org/wp-content/uploads/2018/03/FremontiaV41.3.pdf)
 
 **Riordan EC**, EA Graham, EM Yuen, D Estrin, and PW Rundel. **2010**. Utilizing public internet connected cameras for a cross-continental plant phenology monitoring system. 2010 IEEE International Geoscience and Remote Sensing Symposium, Honolulu, HI. p. 1501–1504. 
-
-### Decision-Support Tools
