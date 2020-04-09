@@ -17,6 +17,11 @@ facebook:
   urlTemplate: "https://www.facebook.com/profile.php?id=2544604"
   icon: "fab fa-facebook"
 
+orcid:
+  name: "orcid"
+  urlTemplate: "https://orcid.org/0000-0002-4524-8048"
+  icon: "fab fa-orcid"
+
 github:
   name: "GitHub"
   urlTemplate: "https://github.com/ecriordan"
