@@ -10,8 +10,7 @@
 researchGate:
   name: "Research Gate"
   ulrTemplate: "https://www.researchgate.net/profile/Erin_Riordan"
-#  icon: "fab fa-researchgate"
-  icon: "img/researchgate.png"
+  icon: "fab fa-researchgate"
   
 facebook:
   name: "Facebook"
