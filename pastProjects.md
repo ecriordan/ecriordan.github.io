@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Projects
+title: Past Projects
 ---
 
 ## Ecological Restoration for Climate Change
