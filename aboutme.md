@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Plants, People, Climate
 subtitle: Climate adaptation for ecological and human well-being
 ---
 ## Plants, People, Climate
