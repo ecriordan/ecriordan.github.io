@@ -5,3 +5,6 @@ subtitle: Applied Ecologist
 meta-title: "Plants, People, Climate"
 meta-description: "Applied Ecologist in Arizona"
 ---
+
+bigimg:
+- "/img/hello_world.jpeg" : "title"
