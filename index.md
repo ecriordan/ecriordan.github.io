@@ -5,5 +5,6 @@ subtitle: Applied Ecologist
 meta-title: "Plants, People, Climate"
 meta-description: "Applied Ecologist in Arizona"
 bigimg:
-- "/img/IMG_1922.JPG" : "Mt. Wrightson, southern Arizona"
+- "/img/IMG_1922comp2.JPG" : "Mt. Wrightson, southern Arizona"
+- "/img/IMG_6302.JPG" : "Sierra del Rosario, Sonoran MX"
 ---
