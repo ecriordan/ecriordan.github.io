@@ -7,6 +7,6 @@ meta-description: "Applied Ecologist in Arizona"
 bigimg:
 - "/img/paloVerde.JPG" : "Palo Verdes, Tucson, AZ"
 - "/img/creston.JPG" : "Mt. Creston, Argentina"
-- "/img/SantaRitas.JPG" : "Santa Rita Mountains, southern Arizona"
+- "/img/santaRitas.JPG" : "Santa Rita Mountains, southern Arizona"
 - "/img/Rosario.JPG" : "Sierra del Rosario, Sonoran MX"
 ---
