@@ -45,14 +45,10 @@ footer-link-col: "#404040"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
-
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Erin C. Riordan
 
-# Social Network Links
-# New links must also be added in the file _data/SocialNetworks.yml
+# Social Network Links (new links must also be added in the file _data/SocialNetworks.yml)
 social-network-links:
 #  rss: true
   email: "ecriordan@arizona.edu"
@@ -65,8 +61,7 @@ social-network-links:
 #  twitter: 
 #  instagram: 
 
-
-# Select which share links to show in posts
+# Links to show in posts
 share-links-active:
   twitter: true
   facebook: true
