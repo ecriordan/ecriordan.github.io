@@ -1,19 +1,12 @@
 # --- General options --- #
-
-# Name of website
+# Site settings
 title: Erin C. Riordan
-# Short description of your site
-#description: 
+description: Personal academic website
 
 # --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
-# url is the the website domain URL without a trailing slash
+# For a locally hosted website, uncomment the next two parameters to set the url and baseurl
 #url: "https://example.com"
-
-# baseurl should be an empty string
-#baseurl: ""
+#baseurl: ""  #subpath of website
 
 # --- Navigation bar options --- #
 
@@ -27,9 +20,6 @@ navbar-links:
   CV: "pdfs/CV_Riordan_2020.pdf"
   Gallery:
 
-# Image to show in the navigation bar - image must be a square (width = height)
-#avatar: "/img/avatar-icon.png"
-
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
@@ -37,7 +27,6 @@ navbar-links:
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
@@ -62,9 +51,8 @@ footer-link-col: "#404040"
 author:
   name: Erin C. Riordan
 
-# Select your active Social Network Links.
-# Uncomment the links you want to show in the footer and add your information to each link.
-# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+# Social Network Links
+# New links must also be added in the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
   email: "ecriordan@arizona.edu"
@@ -75,13 +63,8 @@ social-network-links:
 #  orcid:
 #  facebook: 
 #  twitter: 
-#  reddit: yourname  
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  telephone: +14159998888
+#  instagram: 
+
 
 # Select which share links to show in posts
 share-links-active:
@@ -160,7 +143,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Phoenix"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
