@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Plants, People, Climate
-subtitle: Climate adaptation for ecological and human well-being
+title: Erin C. Riordan
+subtitle: 
 ---
 ![Erin Riordan](/img/erinIntro.JPG)
 
