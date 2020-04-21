@@ -2,6 +2,7 @@
 layout: page
 title: Erin C. Riordan
 subtitle: 
+permalink: /about/
 ---
 ![Erin Riordan](/img/erinIntro.JPG)
 
