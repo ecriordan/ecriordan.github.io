@@ -15,7 +15,3 @@ I am an applied ecologist working at the intersection of plants, people, and cli
 - Ecological restoration
 - Biodiversity conservation
 - Natural resource management
-
-### Skills
-- Spatial analysis
-- Statistical modeling
