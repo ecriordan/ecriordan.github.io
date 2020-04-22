@@ -3,7 +3,6 @@ layout: page
 title: Erin C. Riordan
 subtitle: 
 ---
-![Erin Riordan](/img/erinIntro.JPG)
 
 # About Me
 
