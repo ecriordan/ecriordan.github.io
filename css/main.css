@@ -5,6 +5,10 @@ layout: null
 @import url("pygment_highlights.css");
 
 /* --- General --- */
+.img-left {
+  float: left;
+  margin-right: 1em;
+}
 
 body {
   #font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
