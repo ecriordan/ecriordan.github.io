@@ -15,6 +15,6 @@ Douglas-fir (Pseudotsuga menziesii), one of North America's most important timbr
  ![Climate Sensitivity](/img/Fig4_residualBetas_allSamples.jpg)
 Varitaion in Douglas-fir tree growth sensitivity to temperature (a) and precipitation (b). Climate sensitivity is greatest at locations with warmer and drier conditions (warm colors).
  <br />
-
+ <br />
 ## Adapting agriculture for a hotter, drier world 
 Without profound changes in current food production and arable land management practices, we face widespread hunger in a hotter future [IPCC 2019](https://www.ipcc.ch/srccl/). Arid zones are on the frontlines of the climate change food security crisis, already experiencing imminent threats to water availability, ecosystem services, economic security, and human health. I focus on the Sonoran Desert as a laboratory for the future, drawing upon the region’s native ecosystems and traditional knowledge to advance climate adaptation solutions for arid land food systems. As part of a diverse transdisciplinary team integrating plant, environmental, social, and health sciences, I evaluate the potential of Sonoran Desert plants as new crops for arid-adapted agriculture. When integrated into polycultures, desert plants have the capacity to improve agroecological and human health and resilience. 
