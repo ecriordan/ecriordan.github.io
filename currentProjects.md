@@ -18,6 +18,10 @@ In the southwest, Douglas-fir growth is most sensitive (warm colors) to climate 
 ## Adapting agriculture for a hotter, drier world 
 Without profound changes in current food production and arable land management practices, we face widespread hunger in a hotter future [IPCC 2019](https://www.ipcc.ch/srccl/). Arid zones are on the frontlines of the climate change food security crisis, already experiencing imminent threats to water availability, ecosystem services, economic security, and human health. I focus on the Sonoran Desert as a laboratory for the future, drawing upon the region’s native ecosystems and traditional knowledge to advance climate adaptation solutions for arid land food systems. As part of a diverse transdisciplinary team integrating plant, environmental, social, and health sciences, I evaluate the potential of Sonoran Desert plants as new crops for arid-adapted agriculture. When integrated into polycultures, desert plants have the capacity to improve agroecological and human health and resilience. 
 
+<br />
+ ![Desert Crops](/img/desertCrops.jpg)
+Perennial polycultures of desert plants modeled after natural ecosystems and traditional knowledge in Aridamerica have the potential to improve food system resilience and agroecological and human health. Image credits: map designed by [Paul Mirocha](https://paulmirocha.com/) | desert polyculture photograph by [Bill Hatcher](https://www.billhatcher.com/).
+
  <br />
  
 ## Conserving desert-adapted crop wild relatives
