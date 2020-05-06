@@ -20,7 +20,7 @@ Without profound changes in current food production and arable land management p
 
 <br />
  ![Desert Crops](/img/desertCrops.jpg)
-Perennial polycultures of desert plants modeled after natural ecosystems and traditional knowledge in Aridamerica have the potential to improve food system resilience and agroecological and human health. Image credits: map designed by [Paul Mirocha](https://paulmirocha.com/) | desert polyculture photograph by [Bill Hatcher](https://www.billhatcher.com/).
+Perennial polycultures of desert plants modeled after natural ecosystems and traditional knowledge in Aridamerica have the potential to improve food system resilience and promote agroecological and human health. Image credits: map designed by [Paul Mirocha](https://paulmirocha.com/) | desert polyculture photograph by [Bill Hatcher](https://www.billhatcher.com/).
 
  <br />
  
