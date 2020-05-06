@@ -21,3 +21,10 @@ Without profound changes in current food production and arable land management p
 
 ## Conserving desert-adapted crop wild relatives
 Wild plants closely related to crops, called crop wild relatives, are often more tolerant of stressful growing conditions like heat, drought, salty soils, and pests, than their domesticated cousins. Scientists are turning to these plants for solutions as farmers struggle to meet growing food demands in the face of increasing land degradation and climate change. By reintroducing traits from wild relatives, plant breeders can improve crop hardiness, thereby helping safeguard food security. Crop wild relatives from arid environments may be particularly important for adapting domesticated crops to future hotter, water-scarce growing conditions. These wild species have evolved a remarkable number of strategies to cope with the combined stresses of high solar radiation, heat, drought, low soil fertility, and highly variable precipitation. Their use in crop improvement, however, hinges on successful “in situ” conservation of native habitats where plants can continue to evolve with changing climates and pests, and “ex situ” conservation of wild plant materials in genebanks and gardens where plants can be studied and used for plant breeding. I use a “trans situ” approach to evaluate CWR conservation in the Sonoran Desert, integrating multiple in situ and ex situ strategies to fill gaps in knowledge, conservation, and use. 
+ <br />
+![Teparies](/img/wildAnd DomesticatedTeparies_NSS.jpg)
+Comparison of wild (left) and cultivated (right) tepary beans (Phaseolus acutifolius). Image credit: [Native Seeds/SEARCH](https://www.nativeseeds.org/).
+
+ <br />
+![Chiltepin](/img/chiltepinCombo.jpg)
+The wild chile (Capsicum annuum var. glabrisculum), also called chiltepin, is the wild progenitor of hundreds of domesticated chiles grown and eaten all over the world today. Image credit: Erin C. Riordan.
