@@ -24,7 +24,7 @@ Without profound changes in current food production and arable land management p
 Wild plants closely related to crops, called crop wild relatives, are often more tolerant of stressful growing conditions like heat, drought, salty soils, and pests, than their domesticated cousins. Scientists are turning to these plants for solutions as farmers struggle to meet growing food demands in the face of increasing land degradation and climate change. By reintroducing traits from wild relatives, plant breeders can improve crop hardiness, thereby helping safeguard food security. 
 
 <br />
-![Teparies](/img/wildAnd DomesticatedTeparies_NSS.jpg)
+![Teparies](/img/wildAnd DomesticatedTeparies_NSS_crop.jpg)
 The tepary bean (Phaseolus acutifolius) is a heat and drought tolerant legume that grows in the wild in northwestern Mexico and the southwestern US. It has been cultivated in the region for thousands of years. Wild tepary bean seeds (left) are smaller than their domesticated cousins (right). Image credit: [Native Seeds/SEARCH](https://www.nativeseeds.org/).
 
 <br />
