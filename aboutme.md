@@ -17,11 +17,11 @@ I am an applied ecologist working at the intersection of plants, people, and cli
 - Natural resource management
 
 ### Contact
-Erin C. Riordan, PhD
-Postdoctoral Research Associate
-
-Laboratory of Tree-Ring Research
-Desert Laboratory on Tumamoc Hill
-University of Arizona
-
+Erin C. Riordan, PhD <br />
+Postdoctoral Research Associate <br />
+<br />
+Laboratory of Tree-Ring Research <br />
+Desert Laboratory on Tumamoc Hill <br />
+University of Arizona <br />
+<br />
 ecriordan [at] arizona [dot] edu
