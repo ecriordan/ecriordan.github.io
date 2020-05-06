@@ -9,7 +9,7 @@ Increasingly, scientists are using tree growth–climate relationships quantifie
 <br />
  
 ![Douglas Fir](/img/dougfirRange.jpg)
-Douglas-fir (Pseudotsuga menziesii), one of North America's most important timbre species, has a large range and occupyies diverse enviromental conditions in the western US. Image credits: [range map](https://westernconifers.wordpress.com/douglas-fir/) | [botanical illustration](https://etc.usf.edu/clipart/58800/58853/58853_douglas-fir.htm)
+Douglas-fir (Pseudotsuga menziesii), one of North America's most important timber species, has a large range and occupyies diverse enviromental conditions in the western US. Image credits: [range map](https://westernconifers.wordpress.com/douglas-fir/) | [botanical illustration](https://etc.usf.edu/clipart/58800/58853/58853_douglas-fir.htm)
 
  <br />
 ![Climate Sensitivity](/img/Fig4_residualBetas_allSamples.jpg)
