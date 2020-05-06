@@ -16,6 +16,7 @@ I am an applied ecologist working at the intersection of plants, people, and cli
 - Biodiversity conservation
 - Natural resource management
 <br />
+
 ## Contact
 Erin C. Riordan, PhD <br />
 Postdoctoral Research Associate <br />
