@@ -15,11 +15,11 @@ I am an applied ecologist working at the intersection of plants, people, and cli
 - Ecological restoration
 - Biodiversity conservation
 - Natural resource management
-
 <br />
 
 ## Contact
-Erin C. Riordan, PhD <br />
+Erin C. Riordan, PhD 
+<br />
 Postdoctoral Research Associate <br />
 <br />
 Laboratory of Tree-Ring Research <br />
