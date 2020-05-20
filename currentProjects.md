@@ -11,8 +11,8 @@ Increasingly, scientists are using tree growth–climate relationships quantifie
 Douglas-fir (Pseudotsuga menziesii), one of North America's most important timber species, has a large range and occupies diverse enviromental conditions in North America. Image credits: map by Erin C. Riordan and botanical illustration from Encyclopaedia Britannica.
 
  <br />
- ![Climate Sensitivity](/img/Fig4_residualBetas_allSamples.jpg)
-In the southwest, Douglas-fir growth is most sensitive (warm colors) to climate at warm and dry locations.
+ ![Climate Sensitivity](/img/climateSensitivity.jpg)
+Aggregation methods mask fine-scale variability in Douglas-fir growth sensitivity to climate.
 
  <br />
 ## Adapting agriculture for a hotter, drier world 
