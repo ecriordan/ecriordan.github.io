@@ -12,7 +12,7 @@ Douglas-fir (Pseudotsuga menziesii), one of North America's most important timbe
 
  <br />
  ![Climate Sensitivity](/img/climateSensitivity.jpg)<br />
-Aggregation practices mask fine-scale variability in Douglas-fir growth sensitivity to climate. Fine-scale analyses reveal areas of high sensitivity to maximum warm season temperature (dark red), which has a negative effect on tree growth, and high sensitivity to cool season precipitation (dark green), which has a positive effect on tree growth. 
+Data aggregation masks fine-scale variability in Douglas-fir growth sensitivity to climate. Fine-scale analyses reveal areas of high sensitivity to maximum warm season temperature (dark red), which has a negative effect on tree growth, and high sensitivity to cool season precipitation (dark green), which has a positive effect on tree growth. 
 
  <br />
 ## Adapting agriculture for a hotter, drier world 
